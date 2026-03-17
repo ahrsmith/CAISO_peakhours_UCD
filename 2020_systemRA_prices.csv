@@ -1,0 +1,14 @@
+﻿Month,Contracted Capacity (MW),Percentage of Total Capacity in Data Set,Weighted Average Price ($/kW-month),Average Price ($/kW-month),85th Percentile ($/kW-month)
+Jan,-,9,$4.36 ,-,$7.07 
+Feb,-,8,$4.30 ,-,$7.17 
+Mar,-,8,$4.32 ,-,$7.25 
+Apr,-,8,$4.35 ,-,$7.40 
+May,-,9,$4.45 ,-,$7.13 
+Jun,-,9,$4.60 ,-,$7.50 
+Jul,-,8,$6.37 ,-,$12.50 
+Aug,-,8,$6.21 ,-,$13.25 
+Sep,-,8,$6.10 ,-,$13.90 
+Oct,-,9,$4.78 ,-,$7.50 
+Nov,-,9,$4.42 ,-,$7.25 
+Dec,-,9,$4.36 ,-,$7.35 
+Annual Total,-,-,CALC,-,CALC
