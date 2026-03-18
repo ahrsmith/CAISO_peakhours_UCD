@@ -8,3 +8,4 @@ new_inputs overwrites the template file with the new data. Results are read from
 
 Processed data contains reformatted emissions and energy data.
 Raw data contains data which needs minimal reformatting (transposition, etc.).
+The PCAFs folder contains the generation (one file representing all of CAISO), distribution (one file for each IOU), and distribution (one file for each CZ) PCAFs. They are generated using the methodology described in Section 2 of the report.
