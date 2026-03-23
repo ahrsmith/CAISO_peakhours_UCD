@@ -4,7 +4,7 @@ Tool was reformatted to consider 2019-2025 and handle new data: https://docs.goo
 * yellow cells indicate original manual inputs by E3
 * green cells indicate cells which are populated by historic data
 
-new_inputs overwrites the template file with the new data. Results are read from the "Detailed Output" sheet. Results need to be calculated separately for each climate zone and IOU.
+new_inputs overwrites the template file with the new data. Results are read from the "Detailed Output" sheet. Results need to be calculated separately for each climate zone and IOU. Results are available in acc_results_master.rds.
 
 Processed data contains reformatted emissions and energy data.
 Raw data contains data which needs minimal reformatting (transposition, etc.).
